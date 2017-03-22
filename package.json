@@ -1,0 +1,24 @@
+{
+  "name": "curso-fp-tdd-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w --require babel-polyfill --compilers js:babel-register **/*-specs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/buntplanet/string-calculator-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/buntplanet/curso-fp-tdd-javascript#readme",
+  "dependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.2.2",
+    "babel-register": "^6.24.0",
+    "node-fetch": "^1.6.3"
+  }
+}
