@@ -1,6 +1,6 @@
 //to search at google: code kata catalog
 
-import {curry} from 'ramda';
+import {curry, pipe, tap} from 'ramda';
 
 const EMPTY_RESULT = 0;
 const SEPARATOR = ",";

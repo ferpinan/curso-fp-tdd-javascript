@@ -9,8 +9,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc0b29d7-de07-4cf6-ae44-7fe6d4717685" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fp.js" afterPath="$PROJECT_DIR$/src/fp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string-calculator-specs.js" afterPath="$PROJECT_DIR$/src/string-calculator-specs.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string-calculator.js" afterPath="$PROJECT_DIR$/src/string-calculator.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -43,8 +41,8 @@
           <file leaf-file-name="string-calculator.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/string-calculator.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="561">
-                  <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+                <state relative-caret-position="34">
+                  <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -252,7 +250,7 @@
       <option name="presentableId" value="Default" />
       <updated>1490856087066</updated>
       <workItem from="1490856090901" duration="80000" />
-      <workItem from="1507273833584" duration="14095000" />
+      <workItem from="1507273833584" duration="14191000" />
     </task>
     <servers />
   </component>
@@ -289,7 +287,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14175000" />
+    <option name="totallyTimeSpent" value="14271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -389,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/string-calculator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding />
         </state>
       </provider>
