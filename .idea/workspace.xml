@@ -3,12 +3,15 @@
   <component name="AutoTestManager">
     <enabled-run-configurations>
       <run-configuration type="mocha-javascript-test-runner" name="Programación Funcional.Procesando arrays" />
+      <run-configuration type="mocha-javascript-test-runner" name="String calculator" />
       <run-configuration type="mocha-javascript-test-runner" name="Programación Funcional" />
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc0b29d7-de07-4cf6-ae44-7fe6d4717685" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fp.js" afterPath="$PROJECT_DIR$/src/fp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string-calculator-specs.js" afterPath="$PROJECT_DIR$/src/string-calculator-specs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string-calculator.js" afterPath="$PROJECT_DIR$/src/string-calculator.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,64 +27,48 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="90" lean-forward="false" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="90" />
-              <folding>
-                <marker date="1507279193846" expanded="true" signature="470:701" ph="{&quot;mocha&quot;: &quot;^3.2.0&quot;...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fp.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fp.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fp-specs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fp-specs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="async-specs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/async-specs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="string-calculator-specs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string-calculator-specs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="string-calculator.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/string-calculator.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="561">
+                  <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="string-calculator-specs.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/string-calculator-specs.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="409">
+                  <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+                  <folding>
+                    <element signature="e#0#16#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -96,6 +83,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/fp-specs.js" />
         <option value="$PROJECT_DIR$/src/fp.js" />
+        <option value="$PROJECT_DIR$/src/string-calculator-specs.js" />
+        <option value="$PROJECT_DIR$/src/string-calculator.js" />
       </list>
     </option>
   </component>
@@ -170,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Programación Funcional.Procesando arrays">
+  <component name="RunManager" selected="Mocha.String calculator">
     <configuration name="Mocha Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>C:/Program Files/nodejs/node</node-interpreter>
       <node-options />
@@ -211,6 +200,20 @@
         <name value="Procesando arrays" />
       </test-names>
     </configuration>
+    <configuration name="String calculator" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>C:/Program Files/nodejs/node</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>--require babel-polyfill --compilers js:babel-register</extra-mocha-options>
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/src/string-calculator-specs.js</test-file>
+      <test-names>
+        <name value="String calculator" />
+      </test-names>
+    </configuration>
     <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -224,15 +227,17 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Mocha.Mocha Tests" />
       <item index="1" class="java.lang.String" itemvalue="Mocha.Programación Funcional" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.Programación Funcional.Procesando arrays" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.String calculator" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Mocha.Programación Funcional.Procesando arrays" />
-        <item index="1" class="java.lang.String" itemvalue="Mocha.Programación Funcional" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Mocha.String calculator" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.Programación Funcional.Procesando arrays" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.Programación Funcional" />
       </list>
     </recent_temporary>
   </component>
@@ -247,44 +252,44 @@
       <option name="presentableId" value="Default" />
       <updated>1490856087066</updated>
       <workItem from="1490856090901" duration="80000" />
-      <workItem from="1507273833584" duration="7825000" />
+      <workItem from="1507273833584" duration="14095000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 57m 34s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 13h 07m 15s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 58m 38s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 13h 07m 29s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 58m 44s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 13h 07m 46s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 11h 27m 46s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 13h 07m 54s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 11h 28m 21s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 13h 07m 59s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 11h 28m 57s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="String_calculator - 2017.10.06 at 13h 07m 15s.xml">
+      <configuration name="String calculator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 11h 29m 09s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="String_calculator - 2017.10.06 at 13h 07m 30s.xml">
+      <configuration name="String calculator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 11h 30m 17s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="String_calculator - 2017.10.06 at 13h 07m 45s.xml">
+      <configuration name="String calculator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 11h 30m 28s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="String_calculator - 2017.10.06 at 13h 07m 54s.xml">
+      <configuration name="String calculator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 11h 30m 38s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="String_calculator - 2017.10.06 at 13h 07m 59s.xml">
+      <configuration name="String calculator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7905000" />
+    <option name="totallyTimeSpent" value="14175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -294,17 +299,17 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -330,16 +335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="90" lean-forward="false" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="90" />
-          <folding>
-            <marker date="1507279193846" expanded="true" signature="470:701" ph="{&quot;mocha&quot;: &quot;^3.2.0&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/async-specs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -348,31 +343,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string-calculator-specs.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="90" lean-forward="false" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="90" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fp-specs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string-calculator-specs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string-calculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>

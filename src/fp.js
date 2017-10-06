@@ -1,3 +1,6 @@
+// Encontramos en los branches todos los pasos parciales
+//https://bitbucket.org/buntplanet/curso-fp-tdd-javascript/branches/
+
 // https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter
 // https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reduce
 // https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/map
@@ -15,7 +18,7 @@ export function procesar(numeros) {
     var resultado = 0;
     return numeros
         .filter(not2(esPar))
-        .map(combine(sumaNueva(10), cuadrado))
+        .map(pipe(sumaNueva(10), sumaNueva(10), sumaNueva(-10), cuadrado))
         .reduce(sumaNueva, resultado);
 }
 
@@ -67,3 +70,7 @@ function esPar(valor){
 // function sumaDiezNumero(valor) {
 //     return valor + 10;
 // }
+
+const identity = input => input; //funcion de identidad
+
+const pipe = (...fns) => fns.reduce(combine, identity);
