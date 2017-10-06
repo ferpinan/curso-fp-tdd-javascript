@@ -37,9 +37,11 @@
       <file leaf-file-name="fp.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="289">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -238,32 +240,11 @@
       <option name="presentableId" value="Default" />
       <updated>1490856087066</updated>
       <workItem from="1490856090901" duration="80000" />
-      <workItem from="1507273833584" duration="2547000" />
+      <workItem from="1507273833584" duration="4661000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 46m 16s.xml">
-      <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 47m 12s.xml">
-      <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 47m 25s.xml">
-      <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 51m 01s.xml">
-      <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 51m 02s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 51m 07s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 52m 03s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
     <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 52m 31s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
@@ -273,9 +254,30 @@
     <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 53m 10s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 03m 39s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 08m 32s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 19m 15s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 20m 08s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 22m 23s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 23m 47s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 27m 53s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2627000" />
+    <option name="totallyTimeSpent" value="4741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -287,7 +289,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -355,9 +357,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="289">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
