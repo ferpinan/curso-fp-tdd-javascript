@@ -7,7 +7,10 @@
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc0b29d7-de07-4cf6-ae44-7fe6d4717685" name="Default" comment="" />
+    <list default="true" id="fc0b29d7-de07-4cf6-ae44-7fe6d4717685" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fp-specs.js" afterPath="$PROJECT_DIR$/src/fp-specs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fp.js" afterPath="$PROJECT_DIR$/src/fp.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -35,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fp.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="59" column="4" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+            <state relative-caret-position="391">
+              <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -47,12 +50,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fp-specs.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fp-specs.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fp-specs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,6 +96,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/fp.js" />
+        <option value="$PROJECT_DIR$/src/fp-specs.js" />
       </list>
     </option>
   </component>
@@ -242,20 +248,11 @@
       <option name="presentableId" value="Default" />
       <updated>1490856087066</updated>
       <workItem from="1490856090901" duration="80000" />
-      <workItem from="1507273833584" duration="7146000" />
+      <workItem from="1507273833584" duration="7732000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 52m 52s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 52m 58s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 54m 53s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
     <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 55m 11s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
@@ -277,9 +274,18 @@
     <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 58m 44s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 11h 27m 46s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 11h 28m 21s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 11h 28m 57s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7226000" />
+    <option name="totallyTimeSpent" value="7812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -351,20 +357,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fp-specs.js">
+    <entry file="file://$PROJECT_DIR$/src/fp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="391">
+          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fp.js">
+    <entry file="file://$PROJECT_DIR$/src/fp-specs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="59" column="4" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>

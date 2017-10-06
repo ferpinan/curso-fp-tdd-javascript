@@ -14,7 +14,7 @@ sumarCurry(1, 2);
 
 export function procesar(numeros) {
     var resultado = 0;
-    resultado = numeros.filter(not2(esPar)).map(sumaNueva(10)).reduce(sumaNueva, resultado);
+    resultado = numeros.filter(not2(esPar)).map(combine(sumaNueva(10), cuadrado)).reduce(sumaNueva, resultado);
     return resultado;
 }
 
@@ -41,6 +41,10 @@ function sumaNueva(numero1, numero2){
         }
     }
 }
+
+const cuadrado = n1 => n1*n1;
+const combine = (f1, f2) => value => f2(f1(value));
+
 
 const not = curry(function (a, b) {
     return !a(b);
