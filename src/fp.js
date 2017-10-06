@@ -11,11 +11,12 @@ const sumarCurry = curry(function (a,b) {
 sumarCurry(1)(2);
 sumarCurry(1, 2);
 
-
 export function procesar(numeros) {
     var resultado = 0;
-    resultado = numeros.filter(not2(esPar)).map(combine(sumaNueva(10), cuadrado)).reduce(sumaNueva, resultado);
-    return resultado;
+    return numeros
+        .filter(not2(esPar))
+        .map(combine(sumaNueva(10), cuadrado))
+        .reduce(sumaNueva, resultado);
 }
 
 function suma(numero){
