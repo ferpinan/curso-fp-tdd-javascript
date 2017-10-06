@@ -2,11 +2,14 @@
 <project version="4">
   <component name="AutoTestManager">
     <enabled-run-configurations>
+      <run-configuration type="mocha-javascript-test-runner" name="Programación Funcional.Procesando arrays" />
       <run-configuration type="mocha-javascript-test-runner" name="Programación Funcional" />
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc0b29d7-de07-4cf6-ae44-7fe6d4717685" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fp.js" afterPath="$PROJECT_DIR$/src/fp.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,7 +32,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="90" lean-forward="false" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="90" />
-              <folding />
+              <folding>
+                <marker date="1507279193846" expanded="true" signature="470:701" ph="{&quot;mocha&quot;: &quot;^3.2.0&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,8 +42,8 @@
       <file leaf-file-name="fp.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -50,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/fp-specs.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -70,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/src/string-calculator-specs.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -240,44 +245,44 @@
       <option name="presentableId" value="Default" />
       <updated>1490856087066</updated>
       <workItem from="1490856090901" duration="80000" />
-      <workItem from="1507273833584" duration="4661000" />
+      <workItem from="1507273833584" duration="6435000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 52m 31s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 52m 30s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 52m 50s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 52m 52s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 53m 10s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 52m 58s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 03m 39s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 54m 53s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 08m 32s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 55m 11s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 19m 15s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 55m 36s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 20m 08s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 55m 42s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 22m 23s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 55m 44s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 23m 47s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 57m 34s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 27m 53s.xml">
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 58m 38s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4741000" />
+    <option name="totallyTimeSpent" value="6515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -327,7 +332,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="90" lean-forward="false" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="90" />
-          <folding />
+          <folding>
+            <marker date="1507279193846" expanded="true" signature="470:701" ph="{&quot;mocha&quot;: &quot;^3.2.0&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -342,7 +349,7 @@
     <entry file="file://$PROJECT_DIR$/src/string-calculator-specs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -350,15 +357,15 @@
     <entry file="file://$PROJECT_DIR$/src/fp-specs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="253">
+          <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

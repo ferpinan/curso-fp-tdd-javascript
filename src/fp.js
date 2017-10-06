@@ -2,11 +2,19 @@
 // https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reduce
 // https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/map
 
+import {curry} from 'ramda';
+const sumarCurry = curry(function (a,b) {
+   //ola que ase
+    console.log("ea", a + b);
+    return a + b;
+});
+sumarCurry(1)(2);
+sumarCurry(1, 2);
 
 
 export function procesar(numeros) {
     var resultado = 0;
-    resultado = numeros.filter(esImpar).map(sumaNueva(10)).reduce(sumaNueva, resultado);
+    resultado = numeros.filter(not2(esPar)).map(sumaNueva(10)).reduce(sumaNueva, resultado);
     return resultado;
 }
 
@@ -25,7 +33,7 @@ function suma(numero){
 
 function sumaNueva(numero1, numero2){
     console.log("argument length", arguments.length);
-    if(numero2!=null){
+    if(numero2 !== undefined){
         return numero1 + numero2;
     }else {
         return function (actual) {
@@ -34,9 +42,17 @@ function sumaNueva(numero1, numero2){
     }
 }
 
+const not = curry(function (a, b) {
+    return !a(b);
+});
 
-function esImpar(valor){
-    return (valor % 2) == 1;
+function not2(predicado){
+    return function(valor){
+        return !predicado(valor);
+    }
+}
+function esPar(valor){
+    return (valor % 2) == 0;
 }
 
 // function sumaTodos(valorAnterior, valorActual){

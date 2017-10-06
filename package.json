@@ -20,5 +20,8 @@
     "babel-preset-env": "^1.2.2",
     "babel-register": "^6.24.0",
     "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {
+    "ramda": "^0.24.1"
   }
 }
