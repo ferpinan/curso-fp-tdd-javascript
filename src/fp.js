@@ -1,11 +1,17 @@
 export function procesar(numeros) {
     var resultado = 0;
-    numeros.forEach(function(numero, index) {
-        console.log("index", index);
-        numero += 10;
-        if (numero % 2 == 1) {
-            resultado += numero;
-        }
-    });
+    resultado = numeros.filter(esImpar).map(sumaDiezNumero).reduce(sumaTodos, resultado);
     return resultado;
+}
+
+function esImpar(valor){
+    return (valor % 2) == 1;
+}
+
+function sumaTodos(valorAnterior, valorActual){
+    return valorAnterior + valorActual;
+}
+
+function sumaDiezNumero(valor) {
+    return valor + 10;
 }

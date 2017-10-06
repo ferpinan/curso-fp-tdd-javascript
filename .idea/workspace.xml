@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/fp.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -161,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Programación Funcional">
+  <component name="RunManager" selected="Mocha.Programación Funcional.Procesando arrays">
     <configuration name="Mocha Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>C:/Program Files/nodejs/node</node-interpreter>
       <node-options />
@@ -187,6 +187,21 @@
         <name value="Programación Funcional" />
       </test-names>
     </configuration>
+    <configuration name="Programación Funcional.Procesando arrays" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>C:/Program Files/nodejs/node</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>--require babel-polyfill --compilers js:babel-register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/src/fp-specs.js</test-file>
+      <test-names>
+        <name value="Programación Funcional" />
+        <name value="Procesando arrays" />
+      </test-names>
+    </configuration>
     <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -200,13 +215,15 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Mocha.Mocha Tests" />
       <item index="1" class="java.lang.String" itemvalue="Mocha.Programación Funcional" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.Programación Funcional.Procesando arrays" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Mocha.Programación Funcional" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Mocha.Programación Funcional.Procesando arrays" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.Programación Funcional" />
       </list>
     </recent_temporary>
   </component>
@@ -221,44 +238,44 @@
       <option name="presentableId" value="Default" />
       <updated>1490856087066</updated>
       <workItem from="1490856090901" duration="80000" />
-      <workItem from="1507273833584" duration="1368000" />
+      <workItem from="1507273833584" duration="2547000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Mocha_Tests - 2017.10.06 at 09h 17m 23s.xml">
-      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 22m 02s.xml">
+    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 46m 16s.xml">
       <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 22m 18s.xml">
+    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 47m 12s.xml">
       <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 22m 20s.xml">
+    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 47m 25s.xml">
       <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 30m 36s.xml">
+    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 51m 01s.xml">
       <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 31m 09s.xml">
-      <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 51m 02s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 32m 43s.xml">
-      <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 51m 07s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 32m 45s.xml">
-      <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 52m 03s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 33m 08s.xml">
-      <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 52m 31s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Programación_Funcional - 2017.10.06 at 09h 33m 12s.xml">
-      <configuration name="Programación Funcional" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 52m 50s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 09h 53m 10s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1448000" />
+    <option name="totallyTimeSpent" value="2627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -274,7 +291,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -290,7 +307,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -337,7 +356,7 @@
     <entry file="file://$PROJECT_DIR$/src/fp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="39" />
           <folding />
         </state>
       </provider>
