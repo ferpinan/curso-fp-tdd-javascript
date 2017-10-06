@@ -7,11 +7,7 @@
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc0b29d7-de07-4cf6-ae44-7fe6d4717685" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fp.js" afterPath="$PROJECT_DIR$/src/fp.js" />
-    </list>
+    <list default="true" id="fc0b29d7-de07-4cf6-ae44-7fe6d4717685" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -42,8 +38,8 @@
       <file leaf-file-name="fp.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+            <state relative-caret-position="423">
+              <caret line="59" column="4" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -155,6 +151,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,14 +242,11 @@
       <option name="presentableId" value="Default" />
       <updated>1490856087066</updated>
       <workItem from="1490856090901" duration="80000" />
-      <workItem from="1507273833584" duration="6435000" />
+      <workItem from="1507273833584" duration="7146000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 52m 30s.xml">
-      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
     <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 52m 52s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
@@ -280,9 +274,12 @@
     <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 58m 38s.xml">
       <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
     </history-entry>
+    <history-entry file="Programación_Funcional_Procesando_arrays - 2017.10.06 at 10h 58m 44s.xml">
+      <configuration name="Programación Funcional.Procesando arrays" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6515000" />
+    <option name="totallyTimeSpent" value="7226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -364,8 +361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        <state relative-caret-position="423">
+          <caret line="59" column="4" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
